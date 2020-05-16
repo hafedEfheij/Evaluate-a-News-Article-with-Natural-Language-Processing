@@ -1,0 +1,14 @@
+$primary-color: #69c8ff;
+$secondary-color: #67fce1;
+$color-light: rgb(255, 255, 255);
+$color-dark: #000;
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: $color-light;
+  font-size: 1.6rem;
+  min-height: 100vh;
+}
